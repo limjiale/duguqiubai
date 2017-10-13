@@ -1,0 +1,16 @@
+telepot
+
+requests
+
+weather-api
+yweather
+virtualenv
+psycopg2
+beautifulsoup4
+excel
+openweather
+python-telegram-bot
+python3-weather-api
+telegram
+urllib3
+yarl
